@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "arc_id": "Nagoya-to-LaemChabang",
+        "name": "Japan to Thailand Sea Route",
+        "type": "International Shipping"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [136.8872, 35.0444], 
+          [136.8775, 35.0531], 
+          [100.8947, 13.0587]  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "arc_id": "LaemChabang-to-NSSUS",
+        "name": "Port to NS-Siam United Steel",
+        "type": "Local Trucking"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [100.8947, 13.0587], 
+          [101.1444, 12.6953]  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "arc_id": "NSSUS-to-Toyota-Gateway",
+        "name": "NSSUS to Toyota Motor (Gateway)",
+        "order_volume": 37500
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [101.1444, 12.6953], 
+          [101.3735, 13.5935]  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "arc_id": "NSSUS-to-Isuzu-Gateway",
+        "name": "NSSUS to Isuzu Motors (Gateway)",
+        "order_volume": 28000
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [101.1444, 12.6953], 
+          [101.3698, 13.5852]  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "arc_id": "NSSUS-to-Mitsubishi-LCB",
+        "name": "NSSUS to Mitsubishi Motors (Laem Chabang)",
+        "order_volume": 26600
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [101.1444, 12.6953], 
+          [100.9161, 13.0844]  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "arc_id": "NSSUS-to-AutoAlliance-Rayong",
+        "name": "NSSUS to AutoAlliance (Ford/Mazda)",
+        "order_volume": 24500
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [101.1444, 12.6953], 
+          [101.2185, 12.9774]  
+        ]
+      }
+    }
+  ]
+}
