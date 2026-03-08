@@ -13,6 +13,8 @@
         "coordinates": [
           [136.8872, 35.0444], 
           [136.8775, 35.0531], 
+          [122.0, 20.0],   // Waypoint: Luzon Strait (Bending the line)
+          [110.0, 10.0],   // Waypoint: South China Sea (Bending the line)
           [100.8947, 13.0587]  
         ]
       }
