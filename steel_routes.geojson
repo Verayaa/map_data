@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-    /* --- ROUTE 1: NSSUS (Nagoya) --- */
     {
       "type": "Feature",
       "properties": { "arc_id": "Nagoya-to-LCB", "name": "Nagoya Works to Laem Chabang (Sea)" },
@@ -20,7 +19,6 @@
         "coordinates": [[100.8947, 13.0587], [101.1444, 12.6953]]
       }
     },
-    /* NSSUS Customers */
     {
       "type": "Feature",
       "properties": { "arc_id": "NSSUS-to-Toyota", "name": "NSSUS to Toyota Gateway", "vol": 37500 },
@@ -31,8 +29,6 @@
       "properties": { "arc_id": "NSSUS-to-Isuzu", "name": "NSSUS to Isuzu Gateway", "vol": 28000 },
       "geometry": { "type": "LineString", "coordinates": [[101.1444, 12.6953], [101.3698, 13.5852]] }
     },
-
-    /* --- ROUTE 2: NSPT (Kashima) --- */
     {
       "type": "Feature",
       "properties": { "arc_id": "Kashima-to-LCB", "name": "Kashima Works to Laem Chabang (Sea)" },
@@ -51,7 +47,6 @@
         "coordinates": [[100.8947, 13.0587], [101.1712, 13.0185]]
       }
     },
-    /* NSPT Customers */
     {
       "type": "Feature",
       "properties": { "arc_id": "NSPT-to-ThaiHonda", "name": "NSPT to Thai Honda", "vol": 7000 },
@@ -62,8 +57,6 @@
       "properties": { "arc_id": "NSPT-to-Yamaha", "name": "NSPT to Yamaha Motor", "vol": 3500 },
       "geometry": { "type": "LineString", "coordinates": [[101.1712, 13.0185], [100.7180, 13.6110]] }
     },
-
-    /* --- ROUTE 3: Steel Processing (Yawata) --- */
     {
       "type": "Feature",
       "properties": { "arc_id": "Yawata-to-LCB", "name": "Yawata Works to Laem Chabang (Sea)" },
@@ -82,7 +75,6 @@
         "coordinates": [[100.8947, 13.0587], [101.1467, 13.0033]]
       }
     },
-    /* Steel Processing Customers */
     {
       "type": "Feature",
       "properties": { "arc_id": "NSSP-to-Topura", "name": "NSSP to Topura Thailand", "vol": 3300 },
