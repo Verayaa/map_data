@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Port of Nagoya", "role": "Export (HRC)", "country": "Japan" },
+      "geometry": { "type": "Point", "coordinates": [136.8429, 35.0272] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Port of Kashima", "role": "Export (Plate/Coil)", "country": "Japan" },
+      "geometry": { "type": "Point", "coordinates": [140.7120, 35.9180] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Port of Kitakyushu", "role": "Export (Wire/Bar)", "country": "Japan" },
+      "geometry": { "type": "Point", "coordinates": [130.8044, 33.9508] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Laem Chabang Port", "role": "Import (Receiving)", "country": "Thailand" },
+      "geometry": { "type": "Point", "coordinates": [100.8948, 13.0587] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Map Ta Phut Port", "role": "Industrial Import/Export", "country": "Thailand" },
+      "geometry": { "type": "Point", "coordinates": [101.1470, 12.6530] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "route": "Route 1", "name": "Nagoya Works Stream" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [136.8860, 35.0317], 
+          [136.8429, 35.0272], 
+          [100.8948, 13.0587], 
+          [101.1444, 12.6953]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "route": "Route 2", "name": "Kashima Works Stream" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [140.7070, 35.9230], 
+          [140.7120, 35.9180], 
+          [100.8948, 13.0587], 
+          [101.1712, 13.0185]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "route": "Route 3", "name": "Yawata Works Stream" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [130.8314, 33.9056], 
+          [130.8044, 33.9508], 
+          [100.8948, 13.0587], 
+          [101.1467, 13.0033]
+        ]
+      }
+    }
+  ]
+}
