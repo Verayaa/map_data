@@ -1,0 +1,4 @@
+ID,name,lat,lon,supply,capacity,primary_customer
+S01,Nagoya Works,35.0317,136.8860,116600,583300,NS-Siam United Steel
+S02,East Nippon (Kashima),35.9230,140.7070,19700,541700,Nippon Steel Pipe (TH)
+S03,Kyushu (Yawata),33.9056,130.8314,7800,375000,NS Steel Processing

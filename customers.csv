@@ -1,0 +1,12 @@
+ID,name,lat,lon,demand,unit,primary_supplier
+C01,Toyota Motor (Gateway),13.5935,101.3735,37500,Metric Tons,NS-SUS
+C02,Isuzu Motors (Gateway),13.5852,101.3698,28000,Metric Tons,NS-SUS
+C03,Mitsubishi Motors,13.0844,100.9161,26600,Metric Tons,NS-SUS
+C04,AutoAlliance (Ford/Mazda),12.9774,101.2185,24500,Metric Tons,NS-SUS
+C05,Thai Honda,13.7845,100.7954,7000,Metric Tons,NS Pipe (TH)
+C06,Yamaha Motor,13.6110,100.7180,3500,Metric Tons,NS Pipe (TH)
+C07,Thai Summit Group,13.6185,100.6725,5000,Metric Tons,NS Pipe (TH)
+C08,Denso (Thailand),13.4075,101.0020,4200,Metric Tons,NS Pipe (TH)
+C09,Topura (Thailand),12.9924,101.1645,3300,Metric Tons,Nippon Steel Steel Processing
+C10,Thai Meira,12.9980,101.1590,2500,Metric Tons,Nippon Steel Steel Processing
+C11,Aisin Takaoka,13.0780,101.0180,2000,Metric Tons,Nippon Steel Steel Processing

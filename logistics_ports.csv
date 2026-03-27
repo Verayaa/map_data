@@ -1,0 +1,6 @@
+ID,name,lat,lon,capacity,unit
+P01,Port of Nagoya,35.0272,136.8429,1416000,Metric Tons
+P02,Port of Kashima,35.9180,140.7120,8333000,Metric Tons
+P03,Port of Kitakyushu,33.9508,130.8044,1250000,Metric Tons
+P04,Laem Chabang Port,13.0587,100.8948,8845000,Metric Tons
+P05,Map Ta Phut Port,12.6530,101.1470,3410700,Metric Tons
